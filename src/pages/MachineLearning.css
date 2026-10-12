@@ -1,0 +1,22 @@
+
+@import "./PythonLearning.css";
+
+.learning-page {
+  overflow-wrap: anywhere;
+}
+
+.learning-card ul {
+  margin: 0 0 22px;
+  padding-left: 20px;
+  color: #716b80;
+  font-size: 0.9rem;
+  line-height: 1.9;
+}
+
+.learning-card ul li {
+  padding-left: 2px;
+}
+
+.learning-card ul li::marker {
+  color: #8765d8;
+}
